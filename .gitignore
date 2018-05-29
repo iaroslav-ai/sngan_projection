@@ -1,2 +1,6 @@
 *.npz
 .idea
+*.pyc
+.ipynb_checkpoints
+
+source/inception/__pycache__/
